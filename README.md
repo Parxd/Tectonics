@@ -9,6 +9,7 @@ The motivation for this was to visualize any kind of clusters/differences in ear
 
 - Jupyter
 - Numpy + Pandas
+- Seaborn
 - Matplotlib
 - Sci-kit learn
 - Folium
