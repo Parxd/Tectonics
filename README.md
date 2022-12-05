@@ -1,4 +1,4 @@
-# tectonics_ML
+# tectonics
 
 Simple machine learning applications to geological data regarding significant earthquakes since 1900
 
