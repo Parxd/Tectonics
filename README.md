@@ -13,5 +13,5 @@ The motivation for this was to visualize any kind of clusters/differences in ear
 - Matplotlib
 - Sci-kit learn
 - Folium
-
+---
 Plate boundary data from [Kaggle](https://www.kaggle.com/datasets/cwthompson/tectonic-plate-boundaries)
