@@ -13,5 +13,10 @@ The motivation for this was to visualize any kind of clusters/differences in ear
 - Matplotlib
 - Sci-kit learn
 - Folium
+
+### To run this notebook...
+GitHub does not render Folium maps, so parts of the notebook cannot be seen on here.
+You can visit this [link](https://nbviewer.org/github/Parxd/Tectonics/blob/main/main.ipynb) to nbviewer to view all of the notebook.
+
 ---
 Plate boundary data from [Kaggle](https://www.kaggle.com/datasets/cwthompson/tectonic-plate-boundaries)
